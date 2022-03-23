@@ -4,9 +4,9 @@
 import re
 
 # Print all the password criteria for a strong password
-print('\nA strong password consists of: \nA total of at least 8 characters, 1 capital letter, 1 lowercase letter, 1 number, and 1 special character!')
+print('\nWelcome to our password strength detection program! \n \nA strong password consists of at least 8 characters, including at least 1 capital letter, 1 lowercase letter, 1 number, and 1 special character!')
 
-print ("\n*Type 'goodbye' to close")
+print ("*Type 'goodbye' to close")
 
 token = 1
 
